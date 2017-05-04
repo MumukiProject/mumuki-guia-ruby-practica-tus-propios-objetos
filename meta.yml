@@ -3,7 +3,8 @@ name: 'Práctica: tus propios objetos'
 locale: es
 type: practice
 beta: false
-teacher_info: 
+teacher_info: ''
 language: ruby
 id_format: "%05d"
-order: []
+order:
+- 1
