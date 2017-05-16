@@ -1,10 +1,10 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
+editor: upload
 type: problem
 extra_visible: false
 language: 
 teacher_info: 
-manual_evaluation: false
+manual_evaluation: true
 choices: []
