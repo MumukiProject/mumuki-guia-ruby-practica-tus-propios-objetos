@@ -1,7 +1,7 @@
 ---
 tags: []
-layout: input_bottom
-editor: upload
+layout: input_right
+editor: code
 type: problem
 extra_visible: false
 manual_evaluation: true
